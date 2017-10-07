@@ -2580,7 +2580,7 @@ The Fat-Free Framework is community-driven software. It can't be what it is toda
 * Andres Espinoza Arce
 * Jan Kremlacek
 * Eric Schultz
-* Ricardo Andrade
+* Ricardo Sodré Andrade
 * Derek Loewen
 * Michael Nelson
 * Denis Bach
